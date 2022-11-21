@@ -1,5 +1,5 @@
 
-![image](https://user-images.githubusercontent.com/110141187/202935999-063bc728-37d1-41cb-875d-3b1d9207e1a4.png)
+![image](https://user-images.githubusercontent.com/110141187/202937929-6ada7a8b-1c29-41f9-9b63-ba4529c7e7f8.png)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&username=grixxxx" height="150" alt="stats graph"  />
