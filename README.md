@@ -10,6 +10,7 @@
 </br>
 
 
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
@@ -36,6 +37,9 @@
 </br>
 
 <br clear="both">
+
+### Currently learning (2022):
+* [ ] JAVASCRIPT
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/grixxxx/count.svg?"  />
