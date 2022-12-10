@@ -36,7 +36,10 @@
   
 ### Badges  
 <div align="center"  width="300px">
-<a href="http://www.github.com/grixxxx"><img src="https://github-readme-stats.vercel.app/api?username=grixxxx&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=0D1117&width=100&hide_border=true&show_icons=true" alt="grixxxx's GitHub stats"  width="350px" /></a><a href="http://www.github.com/grixxxx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grixxxx&stroke=64748b&background=0D1117&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true"  width="350px" /></a><a href="http://www.github.com/grixxxx"><img src="https://activity-graph.herokuapp.com/graph?username=grixxxx&bg_color=0D1117&color=64748b&line=a855f7&point=64748b&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> <div>
+<a href="http://www.github.com/grixxxx"><img src="https://github-readme-stats.vercel.app/api?username=grixxxx&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=64748b&icon_color=a855f7&bg_color=0D1117&width=100&hide_border=true&show_icons=true" alt="grixxxx's GitHub stats"  width="350px" /></a><a href="http://www.github.com/grixxxx"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grixxxx&stroke=64748b&background=0D1117&ring=a855f7&fire=a855f7&currStreakNum=64748b&currStreakLabel=a855f7&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true"  width="350px" /></a>
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=grixxxx&bg_color=transparent&color=708090&line=49306B&point=ACE4AA&area=true&hide_border=true&hide_title=true)
+<div>
   
 
 <br clear="both">
