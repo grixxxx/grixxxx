@@ -3,7 +3,7 @@
 
 
    🌍  I'm based in Isabela, Philippines </br>
-   🖥️  See my portfolio at [delmerjohnb.netlify.app](http://delmerjohnb.netlify.app) </br>
+   🖥️  See my portfolio at [djballesteros.pages.dev](http://djballesteros.pages.dev) </br>
    ✉️  You can contact me at [delmerjohnb@gmail.com](mailto:delmerjohnb@gmail.com) </br>
    🧠  I'm learning Javascript<a href="https://www.github.com/grixxxx" target="_blank" rel="noreferrer"> </br>
 
